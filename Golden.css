@@ -1,0 +1,95 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Slab', serif; */
+
+
+.content {
+   margin-right: 15%;
+   margin-left: 15%;
+   margin-top: 44px;
+}
+
+.LogoMenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.imgLogo {
+    width: 86px;
+    height: 41px;
+}
+
+.ul {
+    display: flex;
+    text-decoration: none;
+}
+
+.style {
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(254, 209, 54, 1);
+    font-weight: 400;
+    font-size: 16px;
+} 
+
+.a {
+    text-decoration: none;
+}
+
+.li {
+    list-style: none;
+    margin-right: 40px;
+}
+
+.TRG {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: flex;
+    margin-top: 91px;
+    font-size: 40px;
+    justify-content: center;
+}
+
+.Card {
+    height: 185px;
+    width: 274px;
+    text-align: center;
+}
+
+.cardA {
+    margin-top: -5px;
+    height: 56px;
+    width: 304px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    color: rgba(119, 119, 119, 1);
+    font-size: 14px;
+}
+
+.cardText {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.Bord {
+    margin-left: 35%;
+}
+
+.imgS {
+    text-align: center;
+    margin-top: 13px;
+}
+
+.Bord {
+    height: 69px;
+    width: 70px;
+    border-radius: 200px;
+    border: 3px solid rgb(254, 209, 54);
+}
+
+.CardBox {
+    margin-top: 87px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
